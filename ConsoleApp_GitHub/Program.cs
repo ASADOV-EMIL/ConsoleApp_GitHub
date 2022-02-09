@@ -10,7 +10,7 @@ namespace ConsoleApp_GitHub
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello World");//Basic project
+            Console.Write("Hello World");//Basic project 09.02.2022
             Console.ReadKey();
         }
     }
