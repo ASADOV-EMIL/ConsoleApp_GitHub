@@ -10,7 +10,7 @@ namespace ConsoleApp_GitHub
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello World");//Clone Project
+            Console.Write("Hello World");//Clone Project 
             Console.ReadKey();
         }
     }
