@@ -10,7 +10,7 @@ namespace ConsoleApp_GitHub
     {
         static void Main(string[] args)
         {
-            Console.Write(10+5);
+            Console.Write(10+5); //sdfsdfsfsdf
             Console.ReadKey();
         }
     }
