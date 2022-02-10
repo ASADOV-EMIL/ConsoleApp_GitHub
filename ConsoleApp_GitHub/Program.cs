@@ -10,7 +10,7 @@ namespace ConsoleApp_GitHub
     {
         static void Main(string[] args)
         {
-            var res = 10 * 15; //dkjfdkjfhkdsj
+            var res = 10 * 15;
             Console.Write(res);
             Console.ReadKey();
         }
