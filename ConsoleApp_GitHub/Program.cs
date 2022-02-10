@@ -10,8 +10,8 @@ namespace ConsoleApp_GitHub
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello World"); //dfgdfgdfgfdg
-            Console.Write(10+5);
+            var res = 10 * 15;
+            Console.Write(res);
             Console.ReadKey();
         }
     }
