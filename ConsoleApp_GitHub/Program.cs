@@ -10,7 +10,7 @@ namespace ConsoleApp_GitHub
     {
         static void Main(string[] args)
         {
-            var res = 1 * 15;
+            var res = 1 * 15; //;lfkg;dlfkg;l
             var xx = 10 + 5;
             var rr = "Netice: ";
             Console.Write($"{rr}{res+xx}");
