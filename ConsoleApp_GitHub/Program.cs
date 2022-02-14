@@ -11,7 +11,7 @@ namespace ConsoleApp_GitHub
         static void Main(string[] args)
         {
             var res = (2 * 15) + 100;
-            res /= 2;
+            res *= 2;
             var rr = "Netice: ";
             Console.Write($"{rr}{res}");
             Console.ReadKey();
