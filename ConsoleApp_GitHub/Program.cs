@@ -10,10 +10,10 @@ namespace ConsoleApp_GitHub
     {
         static void Main(string[] args)
         {
-            var res = 1 * 15; //;lfkg;dlfkg;l
-            var xx = 10 + 5;
+            var res = 1 * 15;
+            res += 100;
             var rr = "Netice: ";
-            Console.Write($"{rr}{res+xx}");
+            Console.Write($"{rr}{res}");
             Console.ReadKey();
         }
     }
