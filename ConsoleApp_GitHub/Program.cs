@@ -10,7 +10,11 @@ namespace ConsoleApp_GitHub
     {
         static void Main(string[] args)
         {
-            var res = ((2 * 15) + 100)/2;           
+            var x = ((2 * 15) + 100) / 2;
+            var res = "Tek";
+            if (x % 2 == 0)
+                res = "Cut";
+
             Console.Write($"{"Netice: "}{res}");
             Console.ReadKey();
         }
