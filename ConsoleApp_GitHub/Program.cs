@@ -15,7 +15,7 @@ namespace ConsoleApp_GitHub
             if (x % 2 == 0)
                 res = "Cut";
 
-            Console.Write($"{"Netice: "}{res}");
+            Console.Write($"{"Netice: "}{res}{Environment.NewLine}{x}");
             Console.ReadKey();
         }
     }
